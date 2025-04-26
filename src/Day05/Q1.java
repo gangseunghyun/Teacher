@@ -1,4 +1,4 @@
-package Day05_T;
+package Day05;
 
 import java.util.Scanner;
 
@@ -21,6 +21,7 @@ public class Q1 {
             if(num == 1){
                 //출력
                 System.out.print("숫자 입력 : ");
+                //정수 입력을 받아서 정수 변수 count에 대입
                 //정수 입력을 받아서 정수 변수 count에 대입
                 int count = sc.nextInt();
                 // 이중 for문

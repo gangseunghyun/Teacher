@@ -1,4 +1,4 @@
-package Day04_T;
+package Day04;
 
 public class ContinueTest {
     public static void main(String[] args) {

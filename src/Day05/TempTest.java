@@ -1,4 +1,4 @@
-package Day05_T;
+package Day05;
 
 public class TempTest {
     public static void main(String[] args) {

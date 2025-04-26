@@ -1,4 +1,4 @@
-package Day07_T;
+package Day07;
 
 import java.util.Random;
 import java.util.Scanner;

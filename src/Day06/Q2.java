@@ -1,4 +1,4 @@
-package Day06_T;
+package Day06;
 
 import java.util.Random;
 

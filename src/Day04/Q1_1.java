@@ -1,4 +1,4 @@
-package Day04_T;
+package Day04;
 
 /*
 숫자 입력 : 10

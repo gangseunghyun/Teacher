@@ -1,4 +1,4 @@
-package Day06_T;
+package Day06;
 /*
 1. 랜덤 객체 생성
 2. 배열 생성
