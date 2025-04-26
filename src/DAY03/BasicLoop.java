@@ -1,4 +1,4 @@
-package Teacher.DAY03_T;
+package DAY03;
 
 public class BasicLoop {
     public static void main(String[] args) {

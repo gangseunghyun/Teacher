@@ -1,4 +1,4 @@
-package DAY03_T;
+package DAY03;
 
 public class DoWhileEX {
     public static void main(String[] args) {

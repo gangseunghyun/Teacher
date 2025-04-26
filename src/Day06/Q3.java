@@ -1,4 +1,4 @@
-package Day06_T;
+package Day06;
 
 /*
 두 수를 입력 받아서 최대공약수 최소공배수 구하기

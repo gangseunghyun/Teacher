@@ -1,4 +1,4 @@
-package Day06_T;
+package Day06;
 
 public class MultiArrayTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DAY03_T;
+package DAY03;
 
 /*
 1. 입력 -> 국어, 영어, 수학

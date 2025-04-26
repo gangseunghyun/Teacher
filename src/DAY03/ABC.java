@@ -1,4 +1,4 @@
-package Teacher.DAY03_T;
+package DAY03;
 
 import java.util.Scanner;
 public class ABC {

@@ -1,4 +1,4 @@
-package Day06_T;
+package Day06;
 
 /*
 1~45 랜덤수를 만들고 중복이 되지 않게 하세요.

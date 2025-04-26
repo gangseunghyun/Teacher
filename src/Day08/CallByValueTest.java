@@ -1,4 +1,4 @@
-package Day08_T;
+package Day08;
 
 public class CallByValueTest {
     static void abc(int a){
